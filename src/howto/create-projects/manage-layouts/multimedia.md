@@ -49,9 +49,9 @@ $(".presentation").on("sht_layout_deactivate",function(){
 
 ![Multimedia-Element auswählen](../../../images/multimedia.element.png)
 
-* Im rechten Eigenschaftseditor klicken Sie auf die Schaltfläche mit den drei Punkten bei `Eigenes CSS`. Ein Dialogfenster öffnet sich.
+* Im rechten Eigenschaftseditor klicken Sie auf die Schaltfläche mit den drei Punkten bei `Eigenes Javascript`. Ein Dialogfenster öffnet sich.
 
-![Eigenes CSS öffnen](../../../images/custom.javascript.png)
+![Eigenes Javascript öffnen](../../../images/custom.javascript.png)
 
 * Fügen Sie das o.g. Javascript ins Feld ein, anschließend klicken Sie auf `OK`.
 
