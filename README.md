@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/stuebersystems/Websites/_apis/build/status/docs/doc.showtime.de?branchName=master)](https://dev.azure.com/stuebersystems/Websites/_build/latest?definitionId=120&branchName=master)
+
 # CONFIRE SHOWTIME Dokumentation
 
 Dies ist die deutsche Dokumentation zu CONFIRE SHOWTIME. Die Dokumentation ist Open Source und wir haben sie mit [GitBook](https://github.com/GitbookIO/gitbook) realisiert.
