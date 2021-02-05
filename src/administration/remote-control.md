@@ -60,7 +60,7 @@ Mit Remotedesktop-Verbindung wenn Sie als Administrator sich zu einem entfernten
  
 Es gibt keine Option im normalen Interface von Remotedesktop-Verbindung, um dies zu verhindern. Microsoft macht das aufgrund der Sicherheit. Eine Batchdatei unterbricht jedoch die Remotedesktopsitzung ohne die Anzeige zu sperren. Außerdem  kann der Benutzer vorher (innerhalb von 30 Sekunden gibt) das SHOWTIME-Projekt starten, bevor anschließend die Remotedesktopsitzung unterbrochen wird.
 
-* Downloaden Sie und extrahieren Sie die Zip-Datei [Trennen.zip](https://download.stueber.de/bin/de/windowsembedded/Trennen.zip) auf den Desktop des Player-Rechners (Anzeige-Display). Wenn Sie die Remote-Verbindung unterbrechen möchten, wählen Sie per Rechtsklick die Batch-Datei Trennen.bat und klicken Sie auf "Als Administrator ausführen".
+* Downloaden Sie und extrahieren Sie die Zip-Datei [Trennen.zip](https://download.stueber.de/bin/de/windowsembedded/Trennen.zip) auf den Desktop des Player-Rechners (Anzeige-Display). Wenn Sie die Remote-Verbindung unterbrechen möchten, wählen Sie per Rechtsklick die Batch-Datei **Trennen.bat** und klicken Sie auf "Als Administrator ausführen".
  
 ![](/images/Trennen_als_administrator_ausführen.jpg)
 
