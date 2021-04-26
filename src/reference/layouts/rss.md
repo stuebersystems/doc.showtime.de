@@ -14,7 +14,7 @@ Gehen Sie wie folgt vor:
 
 2. Kopieren Sie diesen XML-Textblock in den Texteditor:
    
-   ```` xml
+```` xml
    <?xml version="1.0" encoding="UTF-8" ?>
    <rss version="2.0">
      <channel>
@@ -29,7 +29,7 @@ Gehen Sie wie folgt vor:
        </item>
      </channel>
    </rss>
-   ````
+````
 
 3. Ändern Sie den Inhalt nach Ihren Wünschen ab. Für zusätzliche Einträge kopieren Sie den `item`-Knoten so oft wie nötig.
 
